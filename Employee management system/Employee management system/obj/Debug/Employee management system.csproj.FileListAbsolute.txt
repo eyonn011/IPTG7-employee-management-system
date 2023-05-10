@@ -1,0 +1,16 @@
+C:\Users\Eyon\source\repos\Employee management system\Employee management system\bin\Debug\Employee management system.exe.config
+C:\Users\Eyon\source\repos\Employee management system\Employee management system\bin\Debug\Employee management system.exe
+C:\Users\Eyon\source\repos\Employee management system\Employee management system\bin\Debug\Employee management system.pdb
+C:\Users\Eyon\source\repos\Employee management system\Employee management system\obj\Debug\Employee management system.csproj.AssemblyReference.cache
+C:\Users\Eyon\source\repos\Employee management system\Employee management system\obj\Debug\Employee management system.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eyon\source\repos\Employee management system\Employee management system\obj\Debug\Employee_management_system.Properties.Resources.resources
+C:\Users\Eyon\source\repos\Employee management system\Employee management system\obj\Debug\Employee management system.csproj.GenerateResource.cache
+C:\Users\Eyon\source\repos\Employee management system\Employee management system\obj\Debug\Employee management system.csproj.CoreCompileInputs.cache
+C:\Users\Eyon\source\repos\Employee management system\Employee management system\obj\Debug\Employee management system.exe
+C:\Users\Eyon\source\repos\Employee management system\Employee management system\obj\Debug\Employee management system.pdb
+C:\Users\Eyon\source\repos\Employee management system\Employee management system\bin\Debug\MySql.Data.dll
+C:\Users\Eyon\source\repos\Employee management system\Employee management system\obj\Debug\Employee management system.csproj.CopyComplete
+C:\Users\Eyon\source\repos\Employee management system\Employee management system\obj\Debug\Employee_management_system.login.resources
+C:\Users\Eyon\source\repos\Employee management system\Employee management system\obj\Debug\Employee_management_system.dashboard.resources
+C:\Users\Eyon\source\repos\Employee management system\Employee management system\obj\Debug\Employee_management_system.employees.resources
+C:\Users\Eyon\source\repos\Employee management system\Employee management system\bin\Debug\QRCoder.dll
